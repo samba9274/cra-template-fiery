@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-fiery",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "pwa",
+    "tailwindcss",
+    "react-router-dom",
+    "firebase",
+    "fontawesome"
+  ],
+  "description": "The base TypeScript template for Create React App. Includes tailwindcss, react-router, firebase and fontawesome.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
